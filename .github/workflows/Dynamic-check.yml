@@ -1,0 +1,20 @@
+name: Dynamiccheck
+
+on:
+  push:
+    branches: [ Master ]
+  pull_request:
+    branches: [ Master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      run: 
+        sudo apt-get -y install valgrind
+        sudo apt-get -y install libcunit1-doc libcunit1-dev
+    - name: Dynamic Analysis
+      run: make dynamic_analysis -C 3_Implementation
