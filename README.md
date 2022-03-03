@@ -7,3 +7,4 @@
 [![C/C++ CI](https://github.com/Dhivyanandhini-Thangavelu/M1_Boutiquebillingsystem_APP/actions/workflows/staticanalysis.yml/badge.svg)](https://github.com/Dhivyanandhini-Thangavelu/M1_Boutiquebillingsystem_APP/actions/workflows/staticanalysis.yml)
 
 [![C/C++ CI](https://github.com/Dhivyanandhini-Thangavelu/M1_Boutiquebillingsystem_APP/actions/workflows/buildlinux.yml/badge.svg)](https://github.com/Dhivyanandhini-Thangavelu/M1_Boutiquebillingsystem_APP/actions/workflows/buildlinux.yml)
+[![.github/workflows/Dynamic-check.yml](https://github.com/Dhivyanandhini-Thangavelu/M1_Boutiquebillingsystem_APP/actions/workflows/Dynamic-check.yml/badge.svg)](https://github.com/Dhivyanandhini-Thangavelu/M1_Boutiquebillingsystem_APP/actions/workflows/Dynamic-check.yml)
